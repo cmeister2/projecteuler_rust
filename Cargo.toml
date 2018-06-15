@@ -1,0 +1,6 @@
+[package]
+name = "projecteuler_rust"
+version = "0.1.0"
+authors = ["Max Dymond <cmeister2@gmail.com>"]
+
+[dependencies]
